@@ -26,20 +26,7 @@ The data originates from the **BIRDS open-source standardized bus** designed by 
 
 *Note: The dataset was originally compiled by members of the BIRDS team (Adolfo Jara, Pooja Lepcha, et al.).*
 
-## 🗂️ Repository Structure
-```text
-├── data/
-│   ├── TSURU/             # Contains TSURU.xlsx - [Date].csv files
-│   ├── RAAVANA/           # Contains RAAVANA.xlsx - [Date].csv files
-│   ├── UGUISU/            # Contains UGUISU.xlsx - [Date].csv files
-│   └── NEPALISAT/         # Contains NEPALISAT.xlsx - [Date].csv files
-├── notebooks/
-│   └── cubesat_eps_analysis.ipynb  # Main Jupyter Notebook
-├── images/
-│   └── power_cycle_plot.png        # Generated charts
-├── requirements.txt
-└── README.md
-```
+
 💻 Tech Stack
 This project heavily emphasizes the use of Pandas for robust data engineering and time-series analysis.
 
