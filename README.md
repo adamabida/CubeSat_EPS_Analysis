@@ -39,7 +39,7 @@ The data originates from the **BIRDS open-source standardized bus** designed by 
 │   └── power_cycle_plot.png        # Generated charts
 ├── requirements.txt
 └── README.md
-
+```
 💻 Tech Stack
 This project heavily emphasizes the use of Pandas for robust data engineering and time-series analysis.
 
